@@ -1,0 +1,2 @@
+new child file 3
+added another line to the file
